@@ -1,6 +1,6 @@
 ## MySQL and Power BI Integration Project.
 ## Overview
-### This project aims to integrate Awesome chocolade data from a MySQL database into Power BI for insightful visualizations and analysis.
+### This project aims to integrate Awesome chocolates data from a MySQL database into Power BI for insightful visualizations and analysis.
 
 [Awesome chocolates.pdf](https://github.com/user-attachments/files/16401666/Awesome.chocolates.pdf)
 
