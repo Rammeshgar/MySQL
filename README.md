@@ -30,5 +30,5 @@ from sales
 where year(SaleDate) = 2022 and month(SaleDate)=1;}
 
 ## Visualization
-### Design meaningful and easy to understand visualizations using Power BI’s drag-and-drop interface.
-### Create interactive charts, graphs, and table to represent the insights from The data.
+### Designed a meaningful and easy to understand visualizations using Power BI’s drag-and-drop interface.
+### Created interactive charts, graphs, and table to represent the insights from The data.
